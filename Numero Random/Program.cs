@@ -74,5 +74,3 @@
     Console.Clear();
     Console.WriteLine("El formato ingresado no es valido " + error);
 }
-
-//Hola pe Ruben
