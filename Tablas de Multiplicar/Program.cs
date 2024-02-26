@@ -6,7 +6,7 @@
     do
     {
         Console.Clear();
-        Console.WriteLine("Bienvenido al programa que le muestra la tabla del 1 al 10 de un numero");
+        Console.WriteLine("\tBienvenido al programa que le muestra la tabla del 1 al 10 de un numero");
         Console.WriteLine();
         Console.WriteLine("M) Calcular Tabla");
         Console.WriteLine("S) Salir");

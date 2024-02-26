@@ -6,7 +6,7 @@
     do
     {
         Console.Clear();
-        Console.WriteLine("Bienvenido usuario, ¿Que te apatece hacer hoy?");
+        Console.WriteLine("\tBienvenido usuario, ¿Que te apatece hacer hoy?");
         Console.WriteLine();
         Console.WriteLine("1) Calcular el factorial de un numero");
         Console.WriteLine("2) Calcular la raiz cuadrada de un numero");

@@ -7,7 +7,7 @@
     {
         Console.Clear();
         cont = 0;
-        Console.WriteLine("Hola! ¿Quieres jugar un juego?");
+        Console.WriteLine("\t¡Hola! ¿Quieres jugar un juego?");
         Console.WriteLine();
         Console.WriteLine("1) Si");
         Console.WriteLine("0) Salir");

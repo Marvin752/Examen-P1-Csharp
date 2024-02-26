@@ -9,7 +9,7 @@ try
     do
     {
         Console.Clear();
-        Console.WriteLine("Bienvenido al programa para usar operaciones matematicas ¿Qué desea hacer hoy?");
+        Console.WriteLine("\tBienvenido al programa para usar operaciones matematicas ¿Qué desea hacer hoy?");
         Console.WriteLine("+) Suma");
         Console.WriteLine("-) Resta");
         Console.WriteLine("*) Multiplicación");
