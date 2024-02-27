@@ -26,8 +26,10 @@
                     Console.Write("> ");
                     rak = Convert.ToInt32(Console.ReadLine());
                     cont ++;
-                    do
+                    while (rak != roky)
                     {
+
+
                         if (rak > roky)
                         {
                             Console.Clear();
@@ -37,7 +39,7 @@
                             rak = Convert.ToInt32(Console.ReadLine());
                             cont++;
                         }
-                        else 
+                        else
                         {
                             Console.Clear();
                             Console.WriteLine("Demasiado bajo");
@@ -46,7 +48,7 @@
                             rak = Convert.ToInt32(Console.ReadLine());
                             cont++;
                         }
-                    } while (rak != roky);
+                    }
                     Console.Clear();
                     Console.WriteLine("Felicidades, encontraste el numero aleatroio que era: " + roky);
                     Console.WriteLine();
